@@ -1,5 +1,5 @@
 window.config = {
-  logo: "", // 网站logo
+  logo: "https://www.shayu001.top/images/icon.png", // 网站logo
   title: "鲨鱼云", // 网站标题
   host: "https://24v.5658.buzz/", // 后端接口地址,请保证关闭了强制https，且host 地址未被墙
   storeHome: {
