@@ -1,6 +1,6 @@
 window.config = {
   logo: "", // 网站logo
-  title: "buddy主题", // 网站标题
+  title: "鲨鱼云", // 网站标题
   host: "https://24v.5658.buzz/", // 后端接口地址,请保证关闭了强制https，且host 地址未被墙
   storeHome: {
     title: "选择最适合你的订阅计划", // 套餐页标题
