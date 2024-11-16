@@ -1,7 +1,7 @@
 window.config = {
-  logo: "https://www.shayu001.top/images/icon.png", // 网站logo
+  logo: "https://www.798777.xyz/images/icon.png", // 网站logo
   title: "鲨鱼云", // 网站标题
-  host: "https://24v.5658.buzz/", // 后端接口地址,请保证关闭了强制https，且host 地址未被墙
+  host: "https://v.v.798777.xyz/", // 后端接口地址,请保证关闭了强制https，且host 地址未被墙
   storeHome: {
     title: "选择最适合你的订阅计划", // 套餐页标题
     description:
